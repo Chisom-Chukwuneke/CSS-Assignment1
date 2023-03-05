@@ -1,0 +1,142 @@
+.menu {
+    border: 1px solid;
+    margin: 1px;
+    padding: 1px 50px;
+    text-align: right;
+    background-color: #202022;
+    color: white;
+  }
+  .menu1 {
+    display: inline-block;
+    border: None;
+    padding: 10px 20px;
+  vertical-align: middle;
+    
+  }
+  #section1 {
+    background-color: rgb(147, 241, 234);
+    background-image: url("https://www.sylviamagic.ng/wp-content/uploads/2023/03/bag-removebg-preview.png");
+    background-size: contain;
+    background-position: right bottom ;
+    background-repeat: no-repeat;
+    height: 300px;
+    padding-right: 600px;
+  }
+#asset1  {
+    background-color: #2403b9;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+#asset1:visited {
+    background-color: cyan;
+  }
+  
+  #asset1:hover {
+    background-color: #9f6104;
+  }
+  
+  #asset1:active {
+    background-color: hotpink;
+  } 
+#asset2  {
+    background-color:#f44336 ;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+#asset2:visited {
+    background-color: cyan;
+  }
+  
+  #asset2:hover {
+    background-color: #9f6104;
+  }
+  
+  #asset2:active {
+    background-color: hotpink;
+  } 
+
+  #section2 {
+    background-color: black;
+    color: white;
+  }
+  h2 {
+    text-align: center;
+    padding-top: 20px;
+  }
+  .submenu1{
+    text-align: center;
+    padding: 10px 50px;
+    background-color: #202022;
+    color: white;
+    margin-left: 200;
+ }
+ .submenu1{
+  padding: 100px;
+ }
+
+ #section2 {
+  background-color: white;
+  color:black;
+  height: 700px;
+  padding: 10px 10px;
+ }
+ 
+ #asset3  {
+  background-color: #2403b9;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+#asset3:visited {
+  background-color: cyan;
+}
+
+#asset3:hover {
+  background-color: #9f6104;
+}
+
+#asset3:active {
+  background-color: hotpink;
+} 
+
+ #section4 {
+  background-color: white;
+  color: black;
+  height: 500px;
+ }
+
+ #section5 {
+  background-image: url("https://www.sylviamagic.ng/wp-content/uploads/2022/12/top-view-black-man-african-american-hands-typing-computer-keybord-blue-desk-remote-worker-using-pc-working-from-home-browsing-searching-online-web-internet-communication-1024x576.jpg");
+  
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #FFFFFF;
+  text-align: center;
+  padding-top: 100px;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-size: 20px; 
+  height: 300px;
+  color: white;
+ }
+
+#section6 {
+  background-color: white;
+  text-align: left;
+  padding: 30px 50px;
+}
+
+ #section7 {
+  background-color: black;
+  color: white;
+  padding: 50px 100px;
+ }
